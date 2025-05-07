@@ -15,12 +15,12 @@
 |------------------------|------------------------------------------|----------------------------|
 | Flutter                | إطار عمل التطبيقات المتقاطعة             | ![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg) |
 | Dart                   | لغة البرمجة الأساسية في Flutter           | ![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg) |
-| Provider               | إدارة الحالة بسهولة                     | ![Provider](https://img.icons8.com/color/96/null/provider.png) |
-| BLoC                   | نمط إدارة الحالة القوي                   | ![BLoC](https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png) |
-| Riverpod               | تحسين لإدارة الحالة بدون مشاكل          | ![Riverpod](https://img.icons8.com/fluency/96/null/redux.png) |
-| GetX                   | إدارة الحالة + التنقل + التبعية         | ![GetX](https://github.com/getx-contrib/getx/raw/master/doc/images/logo-full%20@2x.png) |
+| Provider               | إدارة الحالة بسهولة                     | |
+| BLoC                   | نمط إدارة الحالة القوي                   ||
+| Riverpod               | تحسين لإدارة الحالة بدون مشاكل          | |
+| GetX                   | إدارة الحالة + التنقل + التبعية         | |
 | Firebase               | قاعدة بيانات سحابية + المصادقة           | ![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg) |
-| REST API               | الاتصال بالخدمات الخارجية                 | ![API](https://img.icons8.com/fluency/96/null/rest-api.png) |
+| REST API               | الاتصال بالخدمات الخارجية                 ||
 
 ---
 
