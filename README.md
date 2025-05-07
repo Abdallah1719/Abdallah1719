@@ -31,7 +31,7 @@
 - نظام مصادقة كامل باستخدام Firebase Auth.
 - إدارة المنتجات والمفضلة والسلة.
 
-![E-commerce App]([https://via.placeholder.com/300x500?text=E-commerce+App](https://apps.apple.com/us/app/al-omda-f-v/id6467420896))
+![E-commerce App]((https://apps.apple.com/us/app/al-omda-f-v/id6467420896))
 
 ---
 
@@ -39,7 +39,7 @@
 - دعم التنبيهات والتقويم والمزامنة.
 - تخزين البيانات محليًا باستخدام SQLite.
 
-![Notes App]([https://via.placeholder.com/300x500?text=Notes+App](https://play.google.com/store/apps/details?id=com.notes.todo&pli=1))
+![Notes App]((https://play.google.com/store/apps/details?id=com.notes.todo&pli=1))
 
 ---
 
