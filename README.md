@@ -31,7 +31,7 @@
 - نظام مصادقة كامل باستخدام Firebase Auth.
 - إدارة المنتجات والمفضلة والسلة.
 
-![E-commerce App](https://play.google.com/store/apps/details?id=com.alomda.ecommerce)
+![E-commerce App]([https://play.google.com/store/apps/details?id=com.alomda.ecommerce](https://raw.githubusercontent.com/Abdallah1719/new_portfolio_json/refs/heads/main/assets/apps_icons/alomda_icon.png))
 
 ---
 
